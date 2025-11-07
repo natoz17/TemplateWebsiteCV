@@ -933,7 +933,5 @@ window.CVWebsite = {
    - Test functions dari console: window.CVWebsite.scrollToSection('about')
    
    SUPPORT:
-   - Baca PANDUAN_PENGISIAN.md untuk tutorial lengkap
-   - Baca Pembicara.md untuk penjelasan konsep JavaScript
    - Check README.md untuk overview project
 */
